@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aagerblad
+- 🎸 I’m a data scientist at Spotify
+- 💻 I work with Python and SQL, and turn user data into strategic insights
+- 📫 You can reach me at aagerblad@gmail.com
